@@ -4,6 +4,13 @@
 #bool expressão booleana - True ou False
 #Type() mostra o tipo da variavel
 
+# Tipos de Dados
+# int -> númeroas inteiros
+# float -> numeros reias;
+# str -> String - coleção de caracteres - textos;
+# boll -> Expressão booleanas - True ou False;
+# type ( ) -> mostra o tipo da variável; 
+
 nome = 'Felipe'
 print (nome)
 print (type(nome))
