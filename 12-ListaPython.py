@@ -51,7 +51,7 @@ frutas2 = ["maça", "banana", "uva", "Abacaxi"]
 frutas2.remove ("banana")#o remove( remove o item esecifico)
 print (frutas2)
 
-#O pop()método remove o índice espeficado OU o último item se o indice não for especificado
+#O pop()método remove o índice especificado OU o último item se o indice não for especificado
 
 frutas3 = ["maça", "banana", "uva", "Abacaxi"]
 frutas3.pop(0)#ira remover o maça

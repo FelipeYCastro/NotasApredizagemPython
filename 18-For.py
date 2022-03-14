@@ -1,5 +1,5 @@
 ''' Loop FOR()
-Um laço for é utilizado para iteração através de uma sequêcia (istoé , quer uma 
+Um laço for é utilizado para iteração através de uma sequência (isto é , quer uma 
 lista, uma tupla, um dicionario ou uma string)
 
 for varName in listName:
@@ -14,7 +14,7 @@ for x in lista:
 '''
 A função RANGE()
 Para percorrer um conjunto de códigos um número especificado de vezes, podemos usar a função range(),
-A função range() retorna uma sequência de númeors  iniciando em 0(zero) por padrão e incremento em 1(por padrão),
+A função range() retorna uma sequência de números  iniciando em 0(zero) por padrão e incremento em 1(por padrão),
 e termina em um número determinado
 
 for x in range(10):

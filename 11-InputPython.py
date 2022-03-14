@@ -1,5 +1,5 @@
 # Entrada de dados pelo usuario em Python
-# Inpur () do tipo str
+# Input () do tipo str
 
 import os#importa o cls para limpar a tela
 

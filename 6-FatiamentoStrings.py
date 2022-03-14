@@ -1,5 +1,5 @@
 # Fatiamento
-# Você pode retornar umintervalo de caracteres usanso a sintaxe de fatia.
+# Você pode retornar umintervalo de caracteres usando a sintaxe de fatia.
 #Especifique o índice inicial e o índice final, separados por dois pontos,
 #para retornar uma parte da sequência
 

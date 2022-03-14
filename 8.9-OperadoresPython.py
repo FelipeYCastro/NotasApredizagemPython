@@ -2,7 +2,7 @@
 Operador são usados para executar iperações em variáveis e valores.
 Python divide os operadores nos seguintes grupos:
 
-Operadores aritméticos; + adição, - subtração, * multiplicação, / divisão, % Modulo retorna o resto ex 10/3 o resto é 1 , ** Exponencial,  // Resto da Divisão ex 15/3 o que fica abaixo da divisor eé 5 pois 5x3 é 15
+Operadores aritméticos; + adição, - subtração, * multiplicação, / divisão, % Modulo retorna o resto ex 10/3 o resto é 1 , ** Exponencial,  // Resto da Divisão ex 15/3 o que fica abaixo da divisor é 5 pois 5x3 é 15
  
 Operadores de atribuição;
 Operadores de comparação; ==; !=, >, <, >=,<= resultado serão True e False

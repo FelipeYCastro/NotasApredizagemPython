@@ -1,5 +1,5 @@
 #nome da variavel =tipo da variavel
-from operator import truediv
+
 
 
 curso = 'Python'

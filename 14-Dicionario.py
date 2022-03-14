@@ -2,11 +2,11 @@
 Um dicionario é uma coleção, mutavel e indexada. No Python, os dicionários, são
  com chaves e possuem chaves e valores. 
 
-Você também pode usar funcção values () para retornar vallores de um dicionário:
-Você também pode usar funcção Keys () para retornar vallores de um dicionário:
-Você também pode usar funcção items () para retornar vallores de um dicionário:
+Você também pode usar função values () para retornar valores de um dicionário:
+Você também pode usar função Keys () para retornar valores de um dicionário:
+Você também pode usar função item () para retornar valores de um dicionário:
 
-No metódo pop () remove o intem com o nome de chaves especificada
+No mÉtOdo pop () remove o item com o nome de chaves especificada
 
 ex:
 dicionario = {}
