@@ -10,8 +10,9 @@ colchetes[ ] ela pode conter todos os tipos de dados.
 lista = ["maça", "banana", "uva"]
 print (lista[2])
 
-lista3 = list (range(11))#o comando list +range vai gerar números naquele range de números
-print (lista3)
+lista99 = list (range(11))#o comando list +range vai gerar números naquele range
+# de números vai gerar de 0 de zero a 10
+print (lista99)
 
 '''
 Você pode especificar um intervalo de índices especificando por onde começa e 
@@ -33,7 +34,7 @@ print (lista3[2])
 Metodo append()
 '''
 lista4 = ["maça", "banana", "uva"]
-lista4.append ('Abacaxi')
+lista4.append ('Abacaxi')#adiciona no fim da lista
 print (lista4)
 
 ''' ADICIONAR O ITEM AO ÍNDICE ESPECIFICADO USE O
@@ -53,15 +54,15 @@ print (frutas2)
 #O pop()método remove o índice espeficado OU o último item se o indice não for especificado
 
 frutas3 = ["maça", "banana", "uva", "Abacaxi"]
-frutas3.pop()
+frutas3.pop(0)#ira remover o maça
 print (frutas3)
 
 #A palavra-chave del[0] remove o índce especificado
 
 frutas4 = ["maça", "banana", "uva", "Abacaxi"]
-del frutas4[0] #neste caso o índice zero "maçã" vai ser apagado
+del frutas4[2] #neste caso o índice 2 "uva" vai ser apagado
 print (frutas4)
 
-'''TRUPAS
-Uma trupa é uma coleção irdenadas e imutável. Em python , as rupas sãp escritas com parênteses().
-'''
+#LIMPA A LISTA 
+frutas4.clear()
+print (frutas4)#lista vai ficar vazia
